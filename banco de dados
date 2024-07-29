@@ -1,0 +1,39 @@
+1)
+
+Arquivos Convencionais: Simples, mais fáceis de implementar inicialmente, mas menos eficientes e seguros para grandes volumes de dados.
+SGBD: Mais complexos de configurar, mas oferecem maior eficiência, segurança, controle de acesso, e funcionalidades avançadas para o gerenciamento de dados.
+
+2)
+a utilização de um SGBD em uma empresa proporciona uma base mais “sólida” para a gestão de dados, com ganhos em segurança, desempenho e facilidade de manutenção. Isso também suporta o crescimento e a inovação da empresa.
+
+3. Defina os seguintes conceitos:
+ a) Banco de dados:
+Um banco de dados é um conjunto de dados armazenados, cujo conteúdo informativo representa, a cada instante, o estado atual de uma determinada aplicação.
+
+ b) Sistema de gerência de banco de dados 
+é um software genérico para manipular Banco de Dados. Ele permite a definição, construção e manejo de um Banco de Dados para diversas aplicações.
+
+c) Modelo conceitual
+Captura a essência dos requisitos dos usuários e tradução destes requisitos em um esquema conceitual.
+
+d) Modelo lógico
+
+Modelo de dados que representa a estrutura dos dados de um banco de dados 	 
+Define: Quais tabelas que o banco contém e, para cada tabela, quais os nomes das colunas
+
+
+e) Modelo físico
+Enriquecimento do esquema lógico com detalhes sobre estruturas de armazenamento físico e indexação, produzindo um esquema físico.
+
+4)
+É quando a mesma informação é armazenada em mais de um local dentro do sistema de banco de dados, por erro ou de maneira proposital.
+
+5)sistema para setor de vendas
+
+6)
+entidade:
+É um conjunto de objetos do mundo real sobre os quais se deseja manter informações no banco de dados
+relacionamento:
+É uma associação entre entidades. Representado através de um losângulo e linhas que ligam as entidades relacionadas
+atributo:
+É um dado que é associado a cada ocorrência de uma entidade ou de um relacionamento
